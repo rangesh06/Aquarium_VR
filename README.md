@@ -37,9 +37,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you have suggestions for improvements or want to contribute code, please follow these steps:
-
-Please ensure your code adheres to any existing coding styles and that you've tested your changes thoroughly.
+Contributions are welcome! If you have suggestions for improvements or want to contribute code.
 
 ## 📜 License
 Distributed under the **MIT License**. See `LICENSE.txt` for more information.
