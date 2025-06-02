@@ -47,6 +47,6 @@ Distributed under the **MIT License**. See `LICENSE.txt` for more information.
 
 ## 📧 Contact
 
-Rangesh - [X(twitter)](https://x.com/RangeshUs) - your.email@example.com
+Rangesh - [X(twitter)](https://x.com/RangeshUs) 
 
 Project Link: [https://github.com/rangesh06/Aquarium_VR](https://github.com/rangesh06/Aquarium_VR)
