@@ -43,11 +43,10 @@ Please ensure your code adheres to any existing coding styles and that you've te
 
 ## 📜 License
 Distributed under the **MIT License**. See `LICENSE.txt` for more information.
-## 🙏 Acknowledgements (Optional)
 
 
 ## 📧 Contact
 
-Rangesh - [@yourtwitterhandle](https://x.com/RangeshUs) - your.email@example.com
+Rangesh - [X(twitter)](https://x.com/RangeshUs) - your.email@example.com
 
 Project Link: [https://github.com/rangesh06/Aquarium_VR](https://github.com/rangesh06/Aquarium_VR)
