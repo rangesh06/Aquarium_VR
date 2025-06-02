@@ -1,10 +1,11 @@
 # Aquarium_VR
-Aquarium VR experience from your living room! 🌊🐠 You can interact with the fishes, cut sharks (only sharks), change the number of fish, and customize their colors.
+Aquarium VR experience from your living room! 🌊🐠 
 
 [![Unity Version](https://img.shields.io/badge/Unity-UNITY_6-blueviolet)](https://unity.com/releases/unity-6)
 
 ## 🌟 Features
 
+ You can interact with the fishes, cut sharks (only sharks), change the number of fish, and customize their colors.
 * **🐠 Interactive Fish:** Interact with dynamic fishes.
 * **🦈 Shark Encounters:** Experience the excitement of encountering and even "cutting" virtual sharks in a playful interaction.
 * **🎨 Customization Options:**
